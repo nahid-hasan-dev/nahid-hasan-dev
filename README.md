@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="cover.png" alt="Banner" />
+  <img src="cover.jpg" alt="Banner" />
 </p>
 
 <hr>
