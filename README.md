@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=00FF00&lines=Hi,+There!+👋;I'm+Abdur+Rahman...;Full+Stack+Developer+🧑‍💻" alt="Typing SVG" width: 100%;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=00FF00&lines=Hi,+There!+👋;I'm+Nahid+Hasan...;Full+Stack+Developer+🧑‍💻" alt="Typing SVG" width: 100%;" />
 </h1>
 <hr>
 
@@ -29,11 +29,11 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdur.developer)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdur.developer)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdur-developer)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-developer/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur09266@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/programmernahid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nahid_hasan_dev)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nahid_hasan_dev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahid-hasan-dev/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahidhasanbd603@gmail.com)
 
 
 </div>
@@ -52,8 +52,8 @@
 
 <div align="center">
 
-![Abdur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdur-developer&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-developer&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Abdur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-dev&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-dev&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -90,5 +90,5 @@ Feel free to reach out to me for collaborations, projects, or just a friendly ch
 <hr>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/abdur-developer" target="_blank">Abdur Rahman</a> | Connect with me on <a href="https://www.linkedin.com/in/abdur-developer/" target="_blank">LinkedIn</a>
+  Made with ❤️ by <a href="https://github.com/abdur-developer" target="_blank">Nahid Hasan</a> | Connect with me on <a href="https://www.linkedin.com/in/nahid-hasan-dev/" target="_blank">LinkedIn</a>
 </p>
