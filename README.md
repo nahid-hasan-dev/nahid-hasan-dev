@@ -90,5 +90,5 @@ Feel free to reach out to me for collaborations, projects, or just a friendly ch
 <hr>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/abdur-developer" target="_blank">Nahid Hasan</a> | Connect with me on <a href="https://www.linkedin.com/in/nahid-hasan-dev/" target="_blank">LinkedIn</a>
+  Made with ❤️ by <a href="https://github.com/nahid-hasan-dev" target="_blank">Nahid Hasan</a> | Connect with me on <a href="https://www.linkedin.com/in/nahid-hasan-dev/" target="_blank">LinkedIn</a>
 </p>
